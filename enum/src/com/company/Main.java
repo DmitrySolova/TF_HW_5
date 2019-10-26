@@ -1,16 +1,16 @@
+/**
+ * Стандартный класс для начала работы
+ * @author Дмитрий JavaRin
+ * @version 1.0 26.10.2019
+ */
+
 package com.company;
 
-public class Main {
+final class Main {
 
-    public static void main(String[] args) {
-        // write your code here
-
+    public static void main(final String[] args) {
         Utils u1 = new Utils();
         u1.print("111", "ЖЕлТЫй");
-
-        for (int i = 0; i < 10; i++){
-            Color.getRandomColor();
-        }
     }
 
 }

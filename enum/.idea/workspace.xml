@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e03c812-ce3e-4818-82be-f5d36f378123" name="Default Changelist" comment="" />
+    <list default="true" id="2e03c812-ce3e-4818-82be-f5d36f378123" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyleidea-libs/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_main/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../generics_main/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/enum/com/company/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/enum/com/company/Color.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/enum/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/enum/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/enum/com/company/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/enum/com/company/Utils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics_main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../generics_main/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics_main/src/com/company/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/../generics_main/src/com/company/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics_main/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../generics_main/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../generics_main/src/com/company/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../generics_main/src/com/company/Utils.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,17 +36,27 @@
       </list>
     </option>
   </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SQqhDXD5kKNpYXhm9LlANHFplS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -73,10 +100,25 @@
       <workItem from="1571506286346" duration="361000" />
       <workItem from="1571566405595" duration="10572000" />
       <workItem from="1571599045493" duration="1251000" />
+      <workItem from="1572120668080" duration="4137000" />
+      <workItem from="1572125526803" duration="402000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
